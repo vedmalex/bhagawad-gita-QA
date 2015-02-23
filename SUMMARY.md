@@ -1,5 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
+   * [вопросы к первой сессии](voprosi_k_pervoi_sessii.md)
+* [содержание](SUMMARY.md)
 * [что это ?](README.md)
 * [Введение в Бхагавад-Гиту](chapter/ch00.md)
 * [Обзор армий на поле битвы Курукшетра](chapter/ch01.md)
@@ -21,3 +24,4 @@
 * [Разновидности веры](chapter/ch17.md)
 * [Совершенство отречения](chapter/ch18.md)
 * [Аналогии](chapter/ch99.md)
+
